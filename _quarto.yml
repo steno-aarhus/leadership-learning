@@ -1,0 +1,21 @@
+project:
+  type: sdca-theme
+
+website:
+  # TODO: Change title and URLs to fit the name of the repo
+  title: "Leadership Learning Group"
+  site-url: "https://steno-aarhus.github.io/leadership-learning/"
+  repo-url: "https://github.com/steno-aarhus/leadership-learning"
+  navbar: 
+    left:
+      - href: sessions.qmd
+
+format:
+  sdca-theme-html:
+    theme:
+      - brand
+
+editor: 
+  markdown:
+    wrap: 72
+    canonical: true

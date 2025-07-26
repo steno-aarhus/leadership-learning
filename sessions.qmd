@@ -1,0 +1,24 @@
+---
+title: "Sessions"
+date: last-modified
+listing:
+  id: sessions
+  contents: sessions
+  sort: asc date
+  fields: [date, title]
+  type: table
+---
+
+::: callout-caution
+This is a work in progress. The content of this page is not final and
+will be regularly updated as the group develops.
+:::
+
+## Calendar
+
+{{< include _calendar.qmd >}}
+
+## Sessions
+
+::: {#sessions}
+:::

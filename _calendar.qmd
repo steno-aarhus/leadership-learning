@@ -1,0 +1,16 @@
+The upcoming sessions are listed in the calendar link. Copy this link to
+subscribe to the calendar in your preferred calendar app.
+<https://ics.teamup.com/feed/kswt65x9zk9rzobn1v/14409003.ics>
+
+### Via the Region Web Outlook
+
+1.  Go to Calendar.
+2.  Click "Add calendar" button.
+3.  Select "From internet" menu item.
+4.  Copy and paste the URL into the fields given.
+
+### Via the Desktop Outlook app
+
+See the [Microsoft Support
+Docs](https://support.microsoft.com/en-us/topic/cff1429c-5af6-41ec-a5b4-74f2c278e98c)
+on subscribing to calendars.

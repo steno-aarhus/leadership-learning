@@ -1,0 +1,36 @@
+---
+title: "Introduction to the leadership learning group and first topic"
+date: 2025-09-11
+start: "10:00"
+end: "11:00"
+location: "Hjerterummet A201-248"
+---
+
+This is the first session of the leadership learning group, where we
+will introduce the group, the main purposes, and talk about how we'd
+like to run it. I've mentioned the Team Topologies book to several
+others at Steno Aarhus, which was the main trigger for starting this
+group in the first place. So I thought it would be a good first topic to
+discuss.
+
+Since this is the first session, ideally it would be good to at least
+read the [key concepts](https://teamtopologies.com/key-concepts) of this
+book or, if you want to buy and read the book, at least the book's
+preface and part I's key takeaways. That way, the session can be a bit
+more productive.
+
+## Details
+
+-   **Date:** {{< meta date >}}
+-   **Time:** {{< meta start >}} to {{< meta end >}}
+-   **Location:** {{< meta location >}}
+
+## Agenda
+
+-   Introduce the idea of the group.
+-   Discuss what might work for everyone for this group, like times,
+    frequency, expectations, interests, etc.
+-   Brainstorm any potential topics or things we could read or discuss
+    in the future (and put it on the website).
+-   Describe the Team Topologies book and its key concepts, and briefly
+    discuss them.
