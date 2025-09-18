@@ -1,0 +1,24 @@
+---
+title: "Discussing articles from an MBA program"
+date: 2025-11-13
+start: "10:00"
+end: "11:00"
+location: "TBD"
+---
+
+Adam will be responsible for the content of this session. He will base the
+session on some of his learning resources that he has from his MBA.
+
+## Details
+
+-   **Date:** {{< meta date >}}
+-   **Time:** {{< meta start >}} to {{< meta end >}}
+-   **Location:** {{< meta location >}}
+
+## Agenda
+
+-   Adam will send out articles to read in advance.
+-   Adam will list options for channels to share things, and we will choose
+    one.
+-   Briefly revisit the Team Topologies book (?)
+-   Discuss the articles Adam has sent out.
