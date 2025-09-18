@@ -1,0 +1,19 @@
+---
+title: "TITLE"
+date: "YYYY-MM-DD"
+start: "HH:MM"
+end: "HH:MM"
+location: ""
+---
+
+DESCRIPTION
+
+## Details
+
+-   **Date:** {{< meta date >}}
+-   **Time:** {{< meta start >}} to {{< meta end >}}
+-   **Location:** {{< meta location >}}
+
+## Agenda
+
+- ITEM
