@@ -87,6 +87,10 @@ apply to both domains.
     method, which is a popular approach to managing work in knowledge
     work environments.
 
+### Articles
+
+We will add articles here as we review them.
+
 ## Calendar
 
 {{< include _calendar.qmd >}}
