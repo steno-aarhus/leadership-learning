@@ -1,0 +1,19 @@
+---
+title: "TBD"
+date: 2026-03-05
+start: "10:00"
+end: "11:00"
+location: "Mellemrummet A201-247"
+---
+
+Agenda and person responsible to be decided in previous session.
+
+## Details
+
+-   **Date:** {{< meta date >}}
+-   **Time:** {{< meta start >}} to {{< meta end >}}
+-   **Location:** {{< meta location >}}
+
+## Agenda
+
+-   TBD

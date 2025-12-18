@@ -1,0 +1,20 @@
+---
+title: "Innovation group presentation (TBD)"
+date: 2026-01-29
+start: "10:00"
+end: "11:00"
+location: "Mellemrummet A201-247"
+---
+
+Daniel Ibsen will be responsible for the content of this session. 
+
+## Details
+
+-   **Date:** {{< meta date >}}
+-   **Time:** {{< meta start >}} to {{< meta end >}}
+-   **Location:** {{< meta location >}}
+
+## Agenda
+
+-   (Potential) Presentation by Katrine on new Innovation group at Steno
+    Aarhus.
