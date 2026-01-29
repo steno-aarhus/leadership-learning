@@ -8,4 +8,4 @@ _site
 /.quarto/
 _ignore
 *_files
-
+**/*.quarto_ipynb
