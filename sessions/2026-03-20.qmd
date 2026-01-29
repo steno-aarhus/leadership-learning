@@ -1,0 +1,18 @@
+---
+title: "Innovation unit and organisational psychology"
+date: 2026-03-20
+start: "10:00"
+end: "11:00"
+location: "Hjerterummet A201-248"
+---
+
+## Details
+
+-   **Date:** {{< meta date >}}
+-   **Time:** {{< meta start >}} to {{< meta end >}}
+-   **Location:** {{< meta location >}}
+
+## Agenda
+
+-   Katrine from the Innovation unit will present on some of her work
+    in the new unit as well as on organisational psychology (and other topics?)
