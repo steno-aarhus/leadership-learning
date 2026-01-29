@@ -2,9 +2,8 @@
 title: "Sessions"
 date: last-modified
 listing:
-  id: sessions
-  contents: sessions
-  sort: asc date
+  contents: "sessions/*.qmd"
+  sort: date desc
   fields: [date, title]
   type: table
 ---
@@ -19,6 +18,3 @@ will be regularly updated as the group develops.
 {{< include _calendar.qmd >}}
 
 ## Sessions
-
-::: {#sessions}
-:::
