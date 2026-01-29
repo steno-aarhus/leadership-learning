@@ -1,12 +1,10 @@
 ---
-title: "Innovation group presentation (TBD)"
+title: "Summary of Project Leadership course at AU"
 date: 2026-01-29
 start: "10:00"
 end: "11:00"
 location: "Mellemrummet A201-247"
 ---
-
-Daniel Ibsen will be responsible for the content of this session. 
 
 ## Details
 
@@ -16,5 +14,5 @@ Daniel Ibsen will be responsible for the content of this session.
 
 ## Agenda
 
--   (Potential) Presentation by Katrine on new Innovation group at Steno
-    Aarhus.
+-   Daniel Ibsen will present on what he learned after taking the
+    Project Leadership course at Aarhus University.
